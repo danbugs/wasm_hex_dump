@@ -9,7 +9,7 @@ homepage = "https://github.com/danbugs/wasm_hex_dump#readme"
 documentation = "https://github.com/danbugs/wasm_hex_dump#readme"
 keywords = ["wasm", "hex", "dump", "cli", "libSQL"]
 categories = ["command-line-utilities", "wasm"]
-license = "AGPL-3"
+license = "AGPL-3.0-or-later"
 
 [dependencies]
 clap = { version = "4.1.6", features = ["derive"] }
